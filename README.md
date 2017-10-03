@@ -7,9 +7,9 @@ You may want these for a presentation, a blog post or whatever.
 
 Logo is high resolution with transparent background and is available in SVG and PNG.
 
-| [Logo](logo) |  |
+| preview | svg | png |
 | --- | --- | --- |
-| <a href="logo"><img width=140 src="juicy_logo.png" alt="Juicy Logo"></a> | [juicy_logo.svg](juicy_logo.svg) |
+| <a href="logo"><img width=140 src="juicy_logo.png" alt="Juicy Logo"></a> | [juicy_logo.svg](juicy_logo.svg) | [juicy_logo.png](juicy_logo.png) |
 
 ## Credit
 
