@@ -1,0 +1,21 @@
+{
+  "name": "logo",
+  "version": "1.0.0",
+  "description": "Juicy logo",
+  "main": "svg2png.js",
+  "private": true,
+  "scripts": {
+    "clean": "rm juicy_logo.png",
+    "build": "npm run clean && svg2png juicy_logo.svg -w 256 -h 256"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomalec/logo.git"
+  },
+  "author": "Tomek Wytrębowicz",
+  "license": "CC-BY-SA-3.0",
+  "bugs": {
+    "url": "https://github.com/tomalec/logo/issues"
+  },
+  "homepage": "https://github.com/tomalec/logo#readme"
+}
